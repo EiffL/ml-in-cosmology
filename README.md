@@ -268,6 +268,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Probabilistic Mapping of Dark Matter by Neural Score Matching* | DE | https://arxiv.org/abs/2011.08271 | 
 | *Higher order statistics of shear field: a machine learning approach* | kNN, SVM, GP, RF, etc.. | https://arxiv.org/abs/2011.10438 |
 | *Simultaneously constraining cosmology and baryonic physics via deep learning from weak lensing* | CNN | https://arxiv.org/abs/2109.11060 |
+| *Probabilistic Mass Mapping with Neural Score Estimation* | DDPM | https://arxiv.org/abs/2201.05561 |
 
 <a name='strong'></a>
 #### Strong Lensing
@@ -394,6 +395,7 @@ This section has a variety of machine learning papers used for various observati
 | *QSO photometric redshifts using machine learning and neural networks* | kNN, DT, NN | https://arxiv.org/abs/2102.09177 | 
 | *Benchmarking and Scalability of Machine Learning Methods for Photometric Redshift Estimation* | RF, BDT, kNN | https://arxiv.org/abs/2104.01875 |
 | *Z-Sequence: Photometric redshift predictions for galaxy clusters with sequential random k-nearest neighbours* | kNN | https://arxiv.org/abs/2104.11335 |
+| *An information-based metric for observing strategy optimization, demonstrated in the context of photometric redshifts with applications to cosmology* | NF | https://arxiv.org/abs/2104.08229 |
 | *Probabilistic photo-z machine learning models for X-ray sky surveys* | RF | https://arxiv.org/abs/2107.01891 |
 | *Non-Sequential Neural Network for Simultaneous, Consistent Classification and Photometric Redshifts of OTELO Galaxies* | NN | https://arxiv.org/abs/2108.09415 |
 | *Using a Neural Network Classifier to Select Galaxies with the Most Accurate Photometric Redshifts* | NN | https://arxiv.org/abs/2108.13260 |
