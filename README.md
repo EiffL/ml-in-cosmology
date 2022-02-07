@@ -441,6 +441,7 @@ This section has a variety of machine learning papers used for various observati
 | *Fully probabilistic quasar continua predictions near Lyman-α with conditional neural spline flows* | NF | https://arxiv.org/abs/2006.00615 | 
 | *Artificial intelligence and quasar absorption system modelling; application to fundamental constants at high redshift* | AI | https://arxiv.org/abs/2008.02583 |
 | *Deep learning the astrometric signature of dark matter substructure* | CNN | https://arxiv.org/abs/2008.11577 |
+| *Deep Generative Models for Galaxy Image Simulations* | VAE | https://arxiv.org/abs/2008.03833 |
 | *Beyond the Hubble Sequence -- Exploring Galaxy Morphology with Unsupervised Machine Learning* | VAE | https://arxiv.org/abs/2009.11932 |
 | *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
 | *Peculiar Velocity Estimation from Kinetic SZ Effect using Deep Neural Networks* | CNN | https://arxiv.org/abs/2010.03762 |
